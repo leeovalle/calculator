@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # M<sup>4</sup> R Calculator
 
 ## Overview
@@ -76,3 +77,6 @@ This project is licensed under the MIT License.
 Lee Ovalle - 2024
 
 Credits: UI theme inspired by Creative Tim.
+=======
+
+>>>>>>> 42dc9344f7d692989801012767a3f3db180f2bdd
